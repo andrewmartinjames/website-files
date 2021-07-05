@@ -1,0 +1,39 @@
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/yourfolio"]
+	path = themes/yourfolio
+	url = https://github.com/serg/yourfolio.git
+[submodule "themes/vncnt-hugo"]
+	path = themes/vncnt-hugo
+	url = https://github.com/fncnt/vncnt-hugo
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "themes/hallo"]
+	path = themes/hallo
+	url = https://github.com/EmielH/hallo-hugo.git
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/koirand/pulp.git
+[submodule "themes/academia-hugo"]
+	path = themes/academia-hugo
+	url = https://github.com/themefisher/academia-hugo
+[submodule "themes/slick"]
+	path = themes/slick
+	url = https://github.com/spookey/slick.git
+[submodule "themes/hugo-lodi-theme"]
+	path = themes/hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme.git
+[submodule "themes/hugo-uilite"]
+	path = themes/hugo-uilite
+	url = https://github.com/uicardioHQ/hugo-uilite.git
+[submodule "themes/hugo-resume"]
+	path = themes/hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "themes/pico"]
+	path = themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git
