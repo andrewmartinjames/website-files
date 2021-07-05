@@ -1,0 +1,8 @@
+[
+    {
+        "school":"[Union College](https://union.edu)",
+        "degree":"Bachelor of Science, Computer Engineering",
+        "notes":"<b>Cum Laude, Departmental Honors</b><br><br> <u><a href=\"https://github.com/andrewmartinjames/FrostAlert\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Senior Project</b>: Internet of Things Frost Alarm</a></u><br> Designed open source frost warning system for gardeners using ESP32 microcontroller, Google Cloud (IoT Core, Pub/Sub, Cloud Functions, and Firebase), and an iOS app written in Swift(UI) using Firebase<br><br> <b>Notable Courses:</b><br> Computer & Logic Design<br> Semiconductor Devices<br> Discrete Systems<br> Data Communications & Networks<br> Data Structures<br> Computer Organization<br> Algorithm Design & Analysis<br> Internet of Things",
+        "range":"2017 - 2021"
+    }
+]

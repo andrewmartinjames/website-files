@@ -1,0 +1,24 @@
+[
+  {
+      "grouping":"Languages & Tools",
+      "skills":[ "Python",{"name":"C++","icon":"code"},"Java","Swift","git","MATLAB"]
+  },
+  {
+      "grouping":"Databases",
+      "skills":[
+        "MySQL", "Firebase"
+      ]
+  },
+  {
+    "grouping":"Cloud & CMS",
+      "skills":["AWS",{"name":"Google Cloud","icon":"google-cloud-platform"},"Wordpress"]
+  },
+  {
+    "grouping":"Software",
+    "skills":[{"name":"Word","icon":"onedrive"},{"name":"Excel","icon":"onedrive"},{"name":"Powerpoint","icon":"onedrive"},"PhotoShop"]
+  },
+  {
+    "grouping":"Hardware",
+    "skills":[{"name":"Oscilloscopes","icon":"mootools_badge"},{"name":"Function Generators","icon":"mootools_badge"}]
+  }
+]

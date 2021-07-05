@@ -1,3 +1,55 @@
-baseURL = "http://example.org/"
+title = "Andrew James"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
 languageCode = "en-us"
-title = "My New Hugo Site"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Fairbanks, AK"
+email = "andrew@amjames.net"
+favicon = "/favicon.ico"
+firstName = "Andrew"
+lastName = "James"
+phone = "1-555-555-1234"
+profileImage = "img/Senior_cropped.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/andrewmartinjames/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/andrewmartinjames/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://www.instagram.com/andrewmartinjames/"
+name = "Instagram"
+
+[[params.handles]]
+link = "https://www.flickr.com/photos/andrewmartinjames/"
+name = "flickr"
+
+[[params.handles]]
+link = "https://www.youtube.com/user/andrewmartinjames/videos"
+name = "YouTube"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

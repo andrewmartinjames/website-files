@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Evolutionary Robotics Researcher",
+        "company":"Union College CROCHET Lab",
+        "summary":"NSF-funded research on the use of genetic algorithms in developing novel robot behaviors.\n- Wrote code integrating an evolutionary algorithm (CVT-MAP-ELITES) implemented in Python to a robot simulation package (2D-VSR-Sim) written in Java\n- Collaborated with a remote team using **git** for revision control and continuous testing\n- Designed experiments to test functionality and effectiveness\n- As team lead, mentored new student researchers to take over the project\n- Preprint paper coming soon",
+        "range":"April 2020 - June 2021"
+    },
+    {
+        "role":"Help Desk Employee",
+        "company":"[Union College ITS Help Desk](https://www.union.edu/information-technology-services/its-organization/user-services/its-help-desk)",
+        "summary":"**Student Team Lead** from September 2019-June 2021.\n- Trained and supervised student IT employees in Tier 1 support, troubleshooting, and appropriate ticket escalation\n- Revamped documentation for internal computer systems & known issues\n- Interviewed and evaulated student candidates for employment\n\n**Student Help Desk Technician** from September 2017-June 2019.\n- Answered college tech support phone line, emails, and walk-in clients, providing Tier 1 & Tier 2 technical support\n- Researched novel technical issues for staff and faculty, providing and documenting resolutions\n- Assisted setting up computer hardware and software for college events",
+        "range":"September 2017 - June 2021"
+    },
+    {
+        "role":"Student Technican",
+        "company":"[USTAR](https://ustar.union.edu)",
+        "summary":"**Lead Technician** from September 2020-June 2021.\n- Trained student technicians on cross-platform software support and computer hardware repair\n- Rebuilt [support website](https://ustar.union.edu) on WordPress and revamped ticket tracking system\n\n **Student Technician** from September 2018-June 2020.\n- Assisted students with software and hardware tech support on Macs, PCs, and mobile devices",
+        "range":"September 2018 - June 2021"
+    },
+    {
+        "role":"Barista",
+        "company":"HMSHost Starbucks",
+        "summary":"- Prepared food and drinks in a fast-paced airport setting, as well as cleaning and performing routine equipment maintenance\n- Provided customers with friendly and knowledgeable service regarding food and drink selection",
+        "range":"Summer & Winter breaks 2018 & 2019"
+    },
+    {
+        "role":"Cashier, Host, & Caterer",
+        "company":"[Pike's Waterfront Lodge](https://pikeslodge.com/)",
+        "summary":"- Took orders and catered business and military events in a fast-paced luxury hotel dining environment",
+        "range":"Summer & Winter breaks 2017"
+    }
+]
