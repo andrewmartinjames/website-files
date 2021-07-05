@@ -11,11 +11,11 @@
   },
   {
     "grouping":"Cloud & CMS",
-      "skills":["AWS",{"name":"Google Cloud","icon":"google-cloud-platform"},"Wordpress"]
+      "skills":["AWS",{"name":"Google Cloud","icon":"google-cloud-platform"},"WordPress"]
   },
   {
     "grouping":"Software",
-    "skills":[{"name":"Word","icon":"onedrive"},{"name":"Excel","icon":"onedrive"},{"name":"Powerpoint","icon":"onedrive"},"PhotoShop"]
+    "skills":[{"name":"Word","icon":"onedrive"},{"name":"Excel","icon":"onedrive"},{"name":"PowerPoint","icon":"onedrive"},"Photoshop"]
   },
   {
     "grouping":"Hardware",
