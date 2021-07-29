@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Andrew James | IoT Frost Alarm</title>
+  <meta property="og:title" content="Andrew James | IoT Frost Alarm" />
+  <meta property="og:image" content="https://amjames.net/img/Senior_cropped.png" />
+  <meta name="description" content="Designed open source frost warning system for gardeners using ESP32 microcontroller, Google Cloud (IoT Core, Pub/Sub, Cloud Functions, and Firebase), and an iOS app written in Swift(UI) using Firebase.">
+  <meta property="og:description" content="Designed open source frost warning system for gardeners using ESP32 microcontroller, Google Cloud (IoT Core, Pub/Sub, Cloud Functions, and Firebase), and an iOS app written in Swift(UI) using Firebase." />
+  <meta name="author" content="Andrew James">
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap"></noscript>
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+      <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap"></noscript>
+  <link rel="preload" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css" integrity="sha512-JW3fT0YTK7pT7w437SoX6GcW76jOZ6E0jGmrqBAcloC4GKT+njHOY4fX5KxJ9WfIXTkNrAF994525fAHp+KCxg==" crossorigin="anonymous" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css" integrity="sha512-JW3fT0YTK7pT7w437SoX6GcW76jOZ6E0jGmrqBAcloC4GKT+njHOY4fX5KxJ9WfIXTkNrAF994525fAHp+KCxg==" crossorigin="anonymous"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" integrity="sha512-QKC1UZ/ZHNgFzVKSAhV5v5j73eeL9EEN289eKAEFaAjgAiobVAnVv/AGuPbXsKl1dNoel3kNr6PYnSiTzVVBCw==" crossorigin="anonymous" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" integrity="sha512-QKC1UZ/ZHNgFzVKSAhV5v5j73eeL9EEN289eKAEFaAjgAiobVAnVv/AGuPbXsKl1dNoel3kNr6PYnSiTzVVBCw==" crossorigin="anonymous"></noscript>
+  
+  <link rel="preload" href="https://amjames.net/css/resume.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://amjames.net/css/resume.css"></noscript>
+  <link rel="preload" href="https://amjames.net/css/tweaks.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://amjames.net/css/tweaks.css"></noscript>
+  
+  <meta name="generator" content="Hugo 0.84.3" />
+  
+   
+  
+</head>
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <span class="d-block d-lg-none">Andrew James</span>
+    <span class="d-none d-lg-block">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/img/Senior_cropped.png" alt="">
+    </span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
+          </li>
+      
+      
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
+          </li>
+      
+      
+    </ul>
+  </div>
+</nav>
+
+  <div class="container-fluid p-0">
+    
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
+
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="https://amjames.net/">Home</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://amjames.net/projects/">Projects</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://amjames.net/projects/iot-frost-alarm/">IoT Frost Alarm</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">IoT Frost Alarm</span></h2>
+    <p>Repo link: <a href="https://github.com/andrewmartinjames/FrostAlert">https://github.com/andrewmartinjames/FrostAlert</a></p>
+    <ul class="tags">
+    
+      <li><a class="tag" href="/tags/swift">Swift</a></li>
+    
+      <li><a class="tag" href="/tags/google-cloud">Google Cloud</a></li>
+    
+      <li><a class="tag" href="/tags/firebase">Firebase</a></li>
+    
+      <li><a class="tag" href="/tags/c&#43;&#43;">C&#43;&#43;</a></li>
+    
+      <li><a class="tag" href="/tags/esp32">ESP32</a></li>
+    
+</ul>
+
+    <div class="resume-content" style="width:500px;">
+      
+        <img src="/img/frostalertimg.png" style="max-height:500px;max-width:500px;"/>
+      
+    </div>
+    <p>A system designed to use internet of things (IoT) technology to enable a small weather station in the home garden to report current climate data and predict frosts, alerting the gardener in time for them to cover their plants.</p>
+<p>The system consists of an IoT endpoint, powered by a microcontroller in a watertight housing connected to a weatherproof temperature and humidity sensor, as well as cloud services configured to collect and analyze weather data, and finally an iOS app for gardeners to monitor the conditions in their gardens and receive push notifications about incoming frosts.</p>
+<p>To make the system accessible to home gardeners, the design was required to:</p>
+<ul>
+<li>Cost under $200 to construct</li>
+<li>Measure temperature to within half a degree centigrade</li>
+<li>Operate at temperatures down to -20ºC</li>
+<li>Support both ethernet and WiFi connections</li>
+<li>Notify the gardener when a frost is predicted based on the local dew point dropping below freezing</li>
+<li>Allow the gardener to configure a temperature threshold below which they will always be notified, whether or not the dew point indicates an incoming frost.</li>
+</ul>
+<p>The final project utilized:</p>
+<ul>
+<li>An <strong>ESP32</strong> microcontroller, coded in <strong>C++</strong>, for the endpoint</li>
+<li>An Adafruit ethernet shield for ethernet functionality</li>
+<li>An SHT31 temperature and humidity sensor</li>
+<li><strong>Google Cloud</strong> services for the cloud data pipeline
+<ul>
+<li><strong>IoT Core</strong> receives data from the endpoint via <strong>MQTT</strong></li>
+<li><strong>Pub/Sub</strong> receives data from IoT Core and verifies schema</li>
+<li><strong>Cloud Functions</strong> triggered by Pub/Sub analyze current climate data, update a Firestore database, and trigger push notifications</li>
+</ul>
+</li>
+<li><strong>Firebase</strong> as a serverless backend for the iOS app
+<ul>
+<li><strong>Cloud Firestore</strong> stores user and endpoint data in a <strong>NoSQL</strong> database</li>
+<li><strong>Cloud Messaging</strong> sends push notifications to user&rsquo;s phone</li>
+<li><strong>Firebase Auth</strong> for user authentication with the iOS app</li>
+</ul>
+</li>
+<li><strong>Swift</strong> for the iOS app
+<ul>
+<li><strong>SwiftUI</strong> for GUI</li>
+<li><strong>CocoaPods</strong> for dependency management</li>
+</ul>
+</li>
+</ul>
+<p>All design goals were met by the final design except for the low yearly operating cost. This was due to the unexpected requirement of having an Apple Developer account, which costs $99 per year, in order to send push notifications to iOS apps. Due to this unexpectedly high cost, several alternative notification solutions, including an Android app and a secondary physical endpoint with alarm functionality, are proposed at the end of this report, as well as suggestions for potential commercialization.</p>
+<p><a href="https://drive.google.com/file/d/12IK5U414rHYsYwYDRu3WBsZ4R0oDhcVx/view?usp=sharing"><strong>Full design report available here.</strong></a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/U2NSSIr_3mA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Presentation for senior project"></iframe>
+</div>
+
+
+
+  </div>
+</section>
+
+
+    <div style="margin:2%; color: #999999; font-size: 80%; text-align: center;">Copyright Andrew James, 2021. Powered by Hugo using the Resume theme. </div>
+    
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+  
+  
+  
+  <script async src="/js/resume.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=XX-123446-01"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'XX-123446-01');
+  </script>
+  
+
+  
+</body>
+</html>

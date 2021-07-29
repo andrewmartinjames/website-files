@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confluence on Andrew James</title>
-    <link>https://andrewmartinjames.github.io/website-static/tags/confluence/</link>
+    <link>https://amjames.net/tags/confluence/</link>
     <description>Recent content in Confluence on Andrew James</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andrewmartinjames.github.io/website-static/tags/confluence/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://amjames.net/tags/confluence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atlassian Marketplace Plugins</title>
-      <link>https://andrewmartinjames.github.io/website-static/projects/creations/marketplace/</link>
+      <link>https://amjames.net/projects/creations/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/projects/creations/marketplace/</guid>
+      <guid>https://amjames.net/projects/creations/marketplace/</guid>
       <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
     </item>
     

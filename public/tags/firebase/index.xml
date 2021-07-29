@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firebase on Andrew James</title>
+    <link>https://amjames.net/tags/firebase/</link>
+    <description>Recent content in Firebase on Andrew James</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jul 2021 14:13:33 -0800</lastBuildDate><atom:link href="https://amjames.net/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT Frost Alarm</title>
+      <link>https://amjames.net/projects/iot-frost-alarm/</link>
+      <pubDate>Wed, 28 Jul 2021 14:13:33 -0800</pubDate>
+      
+      <guid>https://amjames.net/projects/iot-frost-alarm/</guid>
+      <description>A system designed to use internet of things (IoT) technology to enable a small weather station in the home garden to report current climate data and predict frosts, alerting the gardener in time for them to cover their plants.
+The system consists of an IoT endpoint, powered by a microcontroller in a watertight housing connected to a weatherproof temperature and humidity sensor, as well as cloud services configured to collect and analyze weather data, and finally an iOS app for gardeners to monitor the conditions in their gardens and receive push notifications about incoming frosts.</description>
+    </item>
+    
+  </channel>
+</rss>

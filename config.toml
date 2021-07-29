@@ -1,5 +1,5 @@
 title = "Andrew James"
-baseURL = "https://andrewmartinjames.github.io/website-static/"
+baseURL = "https://amjames.net"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -18,7 +18,7 @@ profileImage = "img/Senior_cropped.png"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = false
+showProjects = true
 showPublications = false
 showQr = false
 showSkills = true

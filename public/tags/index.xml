@@ -2,287 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andrew James</title>
-    <link>https://andrewmartinjames.github.io/website-static/tags/</link>
+    <link>https://amjames.net/tags/</link>
     <description>Recent content in Tags on Andrew James</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate><atom:link href="https://andrewmartinjames.github.io/website-static/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 14:13:33 -0800</lastBuildDate><atom:link href="https://amjames.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>C&#43;&#43;</title>
+      <link>https://amjames.net/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 28 Jul 2021 14:13:33 -0800</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/docker/</guid>
+      <guid>https://amjames.net/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JavaScript</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/javascript/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>ESP32</title>
+      <link>https://amjames.net/tags/esp32/</link>
+      <pubDate>Wed, 28 Jul 2021 14:13:33 -0800</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/javascript/</guid>
+      <guid>https://amjames.net/tags/esp32/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JSON</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/json/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>Firebase</title>
+      <link>https://amjames.net/tags/firebase/</link>
+      <pubDate>Wed, 28 Jul 2021 14:13:33 -0800</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/json/</guid>
+      <guid>https://amjames.net/tags/firebase/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>node.js</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/node.js/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>Google Cloud</title>
+      <link>https://amjames.net/tags/google-cloud/</link>
+      <pubDate>Wed, 28 Jul 2021 14:13:33 -0800</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/node.js/</guid>
+      <guid>https://amjames.net/tags/google-cloud/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>REST APIs</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/rest-apis/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>Swift</title>
+      <link>https://amjames.net/tags/swift/</link>
+      <pubDate>Wed, 28 Jul 2021 14:13:33 -0800</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOSH</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monit</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/monit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/python/</guid>
+      <guid>https://amjames.net/tags/swift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>agile</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/agile/</link>
+      <link>https://amjames.net/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/agile/</guid>
+      <guid>https://amjames.net/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/continuous-delivery/</link>
+      <link>https://amjames.net/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/continuous-delivery/</guid>
+      <guid>https://amjames.net/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/continuous-integration/</link>
+      <link>https://amjames.net/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/continuous-integration/</guid>
+      <guid>https://amjames.net/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/culture/</link>
+      <link>https://amjames.net/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/culture/</guid>
+      <guid>https://amjames.net/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://amjames.net/tags/devops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amjames.net/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/apache/</link>
+      <link>https://amjames.net/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/apache/</guid>
+      <guid>https://amjames.net/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/redirect/</link>
+      <link>https://amjames.net/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/redirect/</guid>
+      <guid>https://amjames.net/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/rewrite/</link>
+      <link>https://amjames.net/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/rewrite/</guid>
+      <guid>https://amjames.net/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/ssl/</link>
+      <link>https://amjames.net/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/ssl/</guid>
+      <guid>https://amjames.net/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/web-development/</link>
+      <link>https://amjames.net/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/web-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bamboo</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/bamboo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bash/shell</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/bash/shell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/bitbucket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/bitbucket/</guid>
+      <guid>https://amjames.net/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD pipelines</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/ci/cd-pipelines/</link>
+      <link>https://amjames.net/tags/ci/cd-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewmartinjames.github.io/website-static/tags/ci/cd-pipelines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/confluence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JIRA</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jQuery</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/jquery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maven</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xml/xslt</title>
-      <link>https://andrewmartinjames.github.io/website-static/tags/xml/xslt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewmartinjames.github.io/website-static/tags/xml/xslt/</guid>
+      <guid>https://amjames.net/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     
