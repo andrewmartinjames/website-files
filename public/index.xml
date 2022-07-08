@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://amjames.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://amjames.net/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amjames.net/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
-    
-    <item>
       <title>IoT Frost Alarm</title>
       <link>https://amjames.net/projects/iot-frost-alarm/</link>
       <pubDate>Wed, 28 Jul 2021 14:13:33 -0800</pubDate>
@@ -25,16 +15,6 @@
       <guid>https://amjames.net/projects/iot-frost-alarm/</guid>
       <description>A system designed to use internet of things (IoT) technology to enable a small weather station in the home garden to report current climate data and predict frosts, alerting the gardener in time for them to cover their plants.
 The system consists of an IoT endpoint, powered by a microcontroller in a watertight housing connected to a weatherproof temperature and humidity sensor, as well as cloud services configured to collect and analyze weather data, and finally an iOS app for gardeners to monitor the conditions in their gardens and receive push notifications about incoming frosts.</description>
-    </item>
-    
-    <item>
-      <title>Forcing Visits to use SSL</title>
-      <link>https://amjames.net/blog/force-ssl/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://amjames.net/blog/force-ssl/</guid>
-      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
- First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
     </item>
     
     <item>

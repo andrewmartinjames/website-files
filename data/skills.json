@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Languages & Tools",
-      "skills":[ "Python",{"name":"C++","icon":"code"},"Java","Swift","git","MATLAB"]
+      "skills":[ "Python",{"name":"C++","icon":"code"},"Java","Swift","git","MATLAB", "VSPY"]
   },
   {
       "grouping":"Databases",

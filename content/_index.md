@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I'm a Union College computer engineering graduate, originally from Alaska, seeking to relocate and work in software development. This is my digital resume, compiling my education, work experience, and projects. To get in touch, please reach out on [LinkedIn](https://www.linkedin.com/in/andrewmartinjames/).
+I'm a Union College computer engineering graduate, originally from Alaska, working in automotive software at General Motors. To get in touch, please reach out on [LinkedIn](https://www.linkedin.com/in/andrewmartinjames/).

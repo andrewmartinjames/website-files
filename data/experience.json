@@ -1,5 +1,11 @@
 [
     {
+        "role":"TRACK Rotational Software Engineer",
+        "company":"General Motors",
+        "summary":"Currently engaged in a 2 year rotational software engineering program with four separate roles across the GM software space.",
+        "range":"January 2022 - January 2024"
+    },
+    {
         "role":"Evolutionary Robotics Researcher",
         "company":"Union College CROCHET Lab",
         "summary":"NSF-funded research on the use of genetic algorithms in developing novel robot behaviors.\n- Wrote code integrating an evolutionary algorithm (CVT-MAP-ELITES) implemented in Python to a robot simulation package (2D-VSR-Sim) written in Java\n- Collaborated with a remote team using **git** for revision control and continuous testing\n- Designed experiments to test functionality and effectiveness\n- As team lead, mentored new student researchers to take over the project\n- Preprint paper coming soon",
@@ -16,17 +22,5 @@
         "company":"[USTAR](https://ustar.union.edu)",
         "summary":"**Lead Technician** from September 2020-June 2021.\n- Trained student technicians on cross-platform software support and computer hardware repair\n- Rebuilt [support website](https://ustar.union.edu) on WordPress and revamped ticket tracking system\n\n **Student Technician** from September 2018-June 2020.\n- Assisted students with software and hardware tech support on Macs, PCs, and mobile devices",
         "range":"September 2018 - June 2021"
-    },
-    {
-        "role":"Barista",
-        "company":"HMSHost Starbucks",
-        "summary":"- Prepared food and drinks in a fast-paced airport setting, as well as cleaning and performing routine equipment maintenance\n- Provided customers with friendly and knowledgeable service regarding food and drink selection",
-        "range":"Summer & Winter breaks 2018 & 2019"
-    },
-    {
-        "role":"Cashier, Host, & Caterer",
-        "company":"[Pike's Waterfront Lodge](https://pikeslodge.com/)",
-        "summary":"- Took orders and catered business and military events in a fast-paced luxury hotel dining environment",
-        "range":"Summer & Winter breaks 2017"
     }
 ]
